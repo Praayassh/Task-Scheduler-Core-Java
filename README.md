@@ -1,5 +1,5 @@
 Introduction : <br>
-This is a console based core java coding where the concept of map, executors service and file handling is specialized with oops concept.
+This is a console based core java coding where the concept of collection framework, executors service and file handling is specialized with oops concept.
 
 Features : <br>
 
